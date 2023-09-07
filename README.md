@@ -23,7 +23,7 @@
 <br>
 <b>Contributions:</b>
 Contributions and bug reports are welcome! Feel free to fork this repository, make changes, and submit pull requests.
-
+<br>
 <b>License:</b>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
