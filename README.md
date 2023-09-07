@@ -7,11 +7,11 @@
 
 <h3>Key Features:</h3>
 
-<b>Child Management:</b> Add, edit, and organize children's information, including their names, last names, and group assignments.
-<b>Group Management:</b> Create and manage groups within your preschool, making it easy to categorize students by age, class, or other criteria.
-<b>Attendance Tracking:</b> Keep a record of daily attendance and monitor absences for each child.
-<b>Payment Records:</b> Track and manage payments, providing a transparent overview of financial transactions.
-<b>User-Friendly Interface:</b> Navigate the app seamlessly with an intuitive and visually appealing user interface.
+<b>Child Management:</b> Add, edit, and organize children's information, including their names, last names, and group assignments.<br>
+<b>Group Management:</b> Create and manage groups within your preschool, making it easy to categorize students by age, class, or other criteria.<br>
+<b>Attendance Tracking:</b> Keep a record of daily attendance and monitor absences for each child.<br>
+<b>Payment Records:</b> Track and manage payments, providing a transparent overview of financial transactions.<br>
+<b>User-Friendly Interface:</b> Navigate the app seamlessly with an intuitive and visually appealing user interface.<br>
 <b>Data Persistence:</b> Utilizes a MySQL database to ensure data is stored securely.
 
 <h3>Getting Started:</h3>
