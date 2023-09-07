@@ -3,10 +3,10 @@ import mysql.connector
 # Funkcja łącząca się z bazą danych
 def connect_to_database():
     connection = mysql.connector.connect(
-        host="sql12.lh.pl",
-        user="p1compl_przedszkole",
-        password="c>Bv7Bx8",
-        database="p1compl_przedszkole"
+        host="",
+        user="",
+        password="",
+        database="e"
     )
     return connection
 
