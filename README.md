@@ -20,15 +20,15 @@
 <li>Install the required dependencies using pip install -r requirements.txt.</li>
 <li>Configure your MySQL database connection in main_functions.py. If you need database structure, please contact me. </li>
 <li>Run main.py to launch the application.</li>
-<br>
+<br><br>
 <b>Contributions:</b>
 Contributions and bug reports are welcome! Feel free to fork this repository, make changes, and submit pull requests.
-<br>
+<br><br>
 <b>License:</b>
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+<br><br>
 <b>Author:</b>
 Kajetan Holowiej
-
+<br><br>
 <b>Contact:</b>
 kajetan.holowiej@gmail.com
