@@ -20,7 +20,7 @@
 <li>Install the required dependencies using pip install -r requirements.txt.</li>
 <li>Configure your MySQL database connection in main_functions.py. If you need database structure, please contact me. </li>
 <li>Run main.py to launch the application.</li>
-
+<br>
 <b>Contributions:</b>
 Contributions and bug reports are welcome! Feel free to fork this repository, make changes, and submit pull requests.
 
