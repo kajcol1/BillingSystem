@@ -16,10 +16,10 @@
 
 <h3>Getting Started:</h3>
 
-Clone this repository to your local machine.<br>
-Install the required dependencies using pip install -r requirements.txt.<br>
-Configure your MySQL database connection in main_functions.py. If you need database structure, please contact me <br>
-Run main.py to launch the application.<br>
+<li>Clone this repository to your local machine.</li>
+<li>Install the required dependencies using pip install -r requirements.txt.</li>
+<li>Configure your MySQL database connection in main_functions.py. If you need database structure, please contact me. </li>
+<li>Run main.py to launch the application.</li>
 
 <b>Contributions:</b>
 Contributions and bug reports are welcome! Feel free to fork this repository, make changes, and submit pull requests.
