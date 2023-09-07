@@ -1,6 +1,6 @@
 # BillingSystem
-<h3Repository Name:</h3>
-BillingSystem
+<h2>Repository Name: BillingSystem</h2>
+
 
 <h3>Description:</h3>
 <b>BillilngSystem</b> is a Python-based school management system designed for preschools and kindergartens. It simplifies administrative tasks, tracks children's attendance, manages payments, and provides an efficient way to organize and categorize students into different groups. The app offers a user-friendly interface built with PyQt6 for easy navigation.
