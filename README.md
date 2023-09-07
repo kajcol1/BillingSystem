@@ -18,7 +18,7 @@
 
 Clone this repository to your local machine.<br>
 Install the required dependencies using pip install -r requirements.txt.<br>
-Configure your MySQL database connection in main_functions.py. If you need database structure, please contact me<br>
+Configure your MySQL database connection in main_functions.py. If you need database structure, please contact me <br>
 Run main.py to launch the application.<br>
 
 <b>Contributions:</b>
